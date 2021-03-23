@@ -1,0 +1,35 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "OOP",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kristabell74/teamprofilegenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kristabell74/teamprofilegenerator.git"
+  },
+  "homepage": "https://github.com/Kristabell74/teamprofilegenerator.git",
+  "dependencies": {
+    "git": "^0.1.5",
+    "github": "^14.0.0",
+    "inquery": "^1.1.0",
+    "inquirer": "^6.5.2",
+    "node": "^15.10.0",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
