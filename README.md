@@ -48,8 +48,8 @@ It is an application that will keep track of the people on a team.
 
 Had issues with the old repo. I had a gitignore that was not being listened to and because I made so many copies of the repo on my computer to do my work I did not know where the original repo was on my computer. I may have even deleted it. I have no idea. I have had this problem with several repos because I do not want to loose the initial information. I have learned not to do that but may have to make several more repos for other projects that I have almost finished because of this issue. I deleted the old Team-Profile-Generator repo because git hub kept complaining of the node modules. I did not know how to fix the issue any other way so I created a new repo and transfered all of the work. I have leared a good lesson. 
 
+![Screen Shot 2021-03-23 at 5 43 49 PM](https://user-images.githubusercontent.com/69989359/112233359-ef247f80-8bff-11eb-98ab-b43612ff18d1.png)
 
-<img width="1791" alt="Screen Shot 2021-03-23 at 5 13 01 PM" src="https://user-images.githubusercontent.com/69989359/112233084-5e4da400-8bff-11eb-9a63-7b2d34faa0ce.png">
 
 ![Screen Shot 2021-03-23 at 5 45 28 PM](https://user-images.githubusercontent.com/69989359/112233220-a40a6c80-8bff-11eb-9275-36cbc887a308.png)
 
